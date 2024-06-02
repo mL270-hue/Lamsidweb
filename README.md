@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -169,7 +168,6 @@
 </head>
 <body>
     <header class="header">
-        <a href="index.html" class="logo"> <img src="logo.svg" alt="logo" class="img"></a>
         <nav class="nav-bar">
             <a href="index.html#">Menu</a>
         </nav>
